@@ -1,0 +1,14 @@
+D:\oop project1\Aiman Project\bin\Debug\Aiman Project.exe.config
+D:\oop project1\Aiman Project\bin\Debug\Aiman Project.exe
+D:\oop project1\Aiman Project\bin\Debug\Aiman Project.pdb
+D:\oop project1\Aiman Project\obj\Debug\Aiman_Project.Dashboardcs.resources
+D:\oop project1\Aiman Project\obj\Debug\Aiman_Project.Form1.resources
+D:\oop project1\Aiman Project\obj\Debug\Aiman_Project.Manage_Product.resources
+D:\oop project1\Aiman Project\obj\Debug\Aiman_Project.ManageCustomer.resources
+D:\oop project1\Aiman Project\obj\Debug\Aiman_Project.manage_categorie.resources
+D:\oop project1\Aiman Project\obj\Debug\Aiman_Project.New_Product.resources
+D:\oop project1\Aiman Project\obj\Debug\Aiman_Project.Properties.Resources.resources
+D:\oop project1\Aiman Project\obj\Debug\oop project1.csproj.GenerateResource.Cache
+D:\oop project1\Aiman Project\obj\Debug\Aiman Project.exe
+D:\oop project1\Aiman Project\obj\Debug\Aiman Project.pdb
+D:\oop project1\Aiman Project\obj\Debug\oop project1.csprojResolveAssemblyReference.cache

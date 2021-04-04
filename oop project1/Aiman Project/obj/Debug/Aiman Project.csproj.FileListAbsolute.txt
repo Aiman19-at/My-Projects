@@ -1,0 +1,42 @@
+D:\automata project system inventory\Aiman Project\Aiman Project\bin\Debug\Aiman Project.exe.config
+D:\automata project system inventory\Aiman Project\Aiman Project\bin\Debug\Aiman Project.exe
+D:\automata project system inventory\Aiman Project\Aiman Project\bin\Debug\Aiman Project.pdb
+D:\automata project system inventory\Aiman Project\Aiman Project\obj\Debug\Aiman Project.csprojResolveAssemblyReference.cache
+D:\automata project system inventory\Aiman Project\Aiman Project\obj\Debug\Aiman_Project.Form1.resources
+D:\automata project system inventory\Aiman Project\Aiman Project\obj\Debug\Aiman_Project.Properties.Resources.resources
+D:\automata project system inventory\Aiman Project\Aiman Project\obj\Debug\Aiman Project.csproj.GenerateResource.Cache
+D:\automata project system inventory\Aiman Project\Aiman Project\obj\Debug\Aiman Project.exe
+D:\automata project system inventory\Aiman Project\Aiman Project\obj\Debug\Aiman Project.pdb
+D:\automata project system inventory\Aiman Project\Aiman Project\obj\Debug\Aiman_Project.Dashboardcs.resources
+D:\automata project system inventory\Aiman Project\Aiman Project\obj\Debug\Aiman_Project.Manage_Product.resources
+D:\automata project system inventory\Aiman Project\Aiman Project\obj\Debug\Aiman_Project.New_Product.resources
+D:\automata project system inventory\Aiman Project\Aiman Project\obj\Debug\Aiman_Project.manage_categorie.resources
+D:\automata project system inventory\Aiman Project\Aiman Project\obj\Debug\Aiman_Project.ManageCustomer.resources
+D:\Aiman Project\Aiman Project\bin\Debug\Aiman Project.exe.config
+D:\Aiman Project\Aiman Project\obj\Debug\Aiman Project.exe
+D:\Aiman Project\Aiman Project\obj\Debug\Aiman Project.pdb
+D:\Aiman Project\Aiman Project\bin\Debug\Aiman Project.exe
+D:\Aiman Project\Aiman Project\bin\Debug\Aiman Project.pdb
+D:\Aiman Project\Aiman Project\obj\Debug\Aiman Project.csprojResolveAssemblyReference.cache
+D:\Aiman Project\Aiman Project\obj\Debug\Aiman_Project.Dashboardcs.resources
+D:\Aiman Project\Aiman Project\obj\Debug\Aiman_Project.Form1.resources
+D:\Aiman Project\Aiman Project\obj\Debug\Aiman_Project.Manage_Product.resources
+D:\Aiman Project\Aiman Project\obj\Debug\Aiman_Project.ManageCustomer.resources
+D:\Aiman Project\Aiman Project\obj\Debug\Aiman_Project.manage_categorie.resources
+D:\Aiman Project\Aiman Project\obj\Debug\Aiman_Project.New_Product.resources
+D:\Aiman Project\Aiman Project\obj\Debug\Aiman_Project.Properties.Resources.resources
+D:\Aiman Project\Aiman Project\obj\Debug\Aiman Project.csproj.GenerateResource.Cache
+D:\oop project1\Aiman Project\bin\Debug\Aiman Project.exe.config
+D:\oop project1\Aiman Project\obj\Debug\Aiman Project.exe
+D:\oop project1\Aiman Project\obj\Debug\Aiman Project.pdb
+D:\oop project1\Aiman Project\bin\Debug\Aiman Project.exe
+D:\oop project1\Aiman Project\bin\Debug\Aiman Project.pdb
+D:\oop project1\Aiman Project\obj\Debug\Aiman Project.csprojResolveAssemblyReference.cache
+D:\oop project1\Aiman Project\obj\Debug\Aiman_Project.Dashboardcs.resources
+D:\oop project1\Aiman Project\obj\Debug\Aiman_Project.Form1.resources
+D:\oop project1\Aiman Project\obj\Debug\Aiman_Project.Manage_Product.resources
+D:\oop project1\Aiman Project\obj\Debug\Aiman_Project.ManageCustomer.resources
+D:\oop project1\Aiman Project\obj\Debug\Aiman_Project.manage_categorie.resources
+D:\oop project1\Aiman Project\obj\Debug\Aiman_Project.New_Product.resources
+D:\oop project1\Aiman Project\obj\Debug\Aiman_Project.Properties.Resources.resources
+D:\oop project1\Aiman Project\obj\Debug\Aiman Project.csproj.GenerateResource.Cache
